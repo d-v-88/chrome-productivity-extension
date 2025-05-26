@@ -67,3 +67,23 @@ Productivity Enthusiasts: Use data-driven insights to eliminate time-wasting hab
 
 ![Image](https://github.com/user-attachments/assets/e76bcd03-af15-48d9-b21c-30627bf31edc)
 
+## Steps to install
+
+Clone the repository.
+
+npm install - To install dependencies
+
+npm build - To build the extension inside the build folder.
+
+Go to chrome://extensions and inside select the “Load unpacked” option.
+
+Before that make sure you toggle the "Developer mode" option.
+
+Upload the build folder; ideally, you should see your extension in the list.
+
+In your extensions list, you should see your new local extension.
+
+When you open a website, open your extension; ideally, you should have the time spent on each website in the form of a list.
+
+Switching to a new tab should pause the time on the first tab.
+
