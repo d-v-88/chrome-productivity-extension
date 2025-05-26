@@ -53,3 +53,13 @@ Productivity Enthusiasts: Use data-driven insights to eliminate time-wasting hab
 
 ## OUTPUT
 
+![Image](https://github.com/user-attachments/assets/796c7a94-200f-452e-b6f7-57d3df192acd)
+
+
+
+![Image](https://github.com/user-attachments/assets/8afec6cc-ca3b-457e-983d-b31745320d8f)
+
+
+
+![Image](https://github.com/user-attachments/assets/c0266f9a-9a3f-4613-bc43-2702982b0c3d)
+
